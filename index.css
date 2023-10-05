@@ -1,0 +1,30 @@
+body {
+	font-family: 'Josefin Sans', sans-serif !important;
+}
+
+.card {
+	width: 18rem;
+
+}
+
+.card-body {
+	background-color: #393e46;
+	color: #EEEEEE;
+}
+
+.small {
+	height: 35px;
+}
+
+.small-social {
+	height: 25px;
+}
+
+.img-logo {
+	width: 150px;
+	}
+
+.bi {
+	width: 30px;
+	height: 24px;
+}
